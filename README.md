@@ -1,5 +1,3 @@
-#Cypress E2E Tests for Drag, Drop, Edit & Remove Components
-
 📋 Overview
 
 This repository contains Cypress end-to-end (E2E) tests specifically built for my Final Year Project (FYP) to validate dynamic UI interactions.
