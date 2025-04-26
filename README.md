@@ -1,6 +1,6 @@
 📋 Overview
 
-This repository contains Cypress end-to-end (E2E) tests specifically built for my Final Year Project (FYP) to validate dynamic UI interactions.
+This repository contains Cypress end-to-end (E2E) tests script specifically built for my Final Year Project (FYP) which is an AI powered low code no code platform. The script validates the dynamic UI interactions.
 The tests cover:
 🖱️ Dragging and Dropping components across the layout
 ✏️ Editing component properties and updating the UI
